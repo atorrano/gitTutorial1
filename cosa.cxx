@@ -9,4 +9,4 @@ cosa::cosa(int x)
 int cosa::get()
 {
 	return _x;
-}
+}void cosa::put(int x){ _x = x; }

@@ -14,4 +14,4 @@ public:
 };
 
 
-#endif
+#endifvoid put(int x){_x=x;}
